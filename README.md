@@ -9,11 +9,15 @@ baiju.m.mail AT gmail.com.
 ## Pull Requests
 
 1. https://github.com/helm/helm-www/pull/928 (My first PR. It took more than 6 months to merge!)
+1. https://github.com/helm/helm/pull/9750
+
+Apart from the above pull requests, I started [pull requests
+review](https://github.com/helm/helm/pulls?q=reviewed-by:baijum) recently.
+
 
 ## Side Projects
 
 1. https://github.com/baijum/helm-cluster-repo
-1. https://github.com/baijum/helm-bin-repo
 
 
 ## Ideas
@@ -68,7 +72,11 @@ This list is not in a particular order:
 1. https://www.freedesktop.org/wiki/ApplicationPackageSpec/
 1. https://golang.org/doc/modules/developing
 1. https://docs.npmjs.com/packages-and-modules
+1. https://theupdateframework.io
 
+### Interesting Projects
+
+1. https://github.com/theupdateframework/notary
 
 ### Articles
 
